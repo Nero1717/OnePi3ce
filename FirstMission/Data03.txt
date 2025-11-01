@@ -1,0 +1,8 @@
+{
+    "id": "S003",
+    "temperature": 26.7,
+    "humidity": 61,
+    "latitude": 36.8235,
+    "longitude": 10.3277,
+    "timestamp": "2025-11-01T07:15:00Z"
+}
