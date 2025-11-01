@@ -1,0 +1,9 @@
+{
+    "id": "S016",
+    "temperature": 28.2,
+    "humidity": 57,
+    "soil_moisture": 44,
+    "latitude": 36.8232,
+    "longitude": 10.3245,
+    "timestamp": "2025-11-01T07:15:00Z"
+}

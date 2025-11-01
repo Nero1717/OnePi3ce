@@ -1,0 +1,8 @@
+{
+  "id": "Sensor03",
+  "temperature": 22,
+  "soil_moisture": 34,
+  "humidity": 46,
+  "latitude": 36.5,
+  "longitude": 10.12
+}

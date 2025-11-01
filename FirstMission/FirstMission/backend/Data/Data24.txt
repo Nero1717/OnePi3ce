@@ -1,0 +1,8 @@
+{
+  "id": "Sensor24",
+  "temperature": 23,
+  "soil_moisture": 76,
+  "humidity": 69,
+  "latitude": 36.52,
+  "longitude": 10.17
+}
