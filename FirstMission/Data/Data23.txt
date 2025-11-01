@@ -2,6 +2,7 @@
     "id": "S023",
     "temperature": 27.8,
     "humidity": 57,
+    "soil_moisture": 50,
     "latitude": 36.8237,
     "longitude": 10.3251,
     "timestamp": "2025-11-01T07:15:00Z"
